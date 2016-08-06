@@ -2,7 +2,7 @@ function hello(person: string) {
     return "Hello, " + person;
 }
 
-var user = "Deep Seaa";
+var user = "Deep Sea";
 
 //document.body.innerHTML = greeter(user);   
 hello(23823);

@@ -1,4 +1,4 @@
-
+//test gi
 declare var SC:any; // Magic - tells that there is some variable SC out there (SC is from the SoundCloud script file)
 var currentMood: Mood;
 
@@ -25,7 +25,7 @@ imgSelector.addEventListener("change", function () { // file has been picked
         });
     });
 });
-
+//test git
 refreshbtn.addEventListener("click", function () {
     // Load random song based on mood
     loadSong(currentMood);
